@@ -1,0 +1,5 @@
+print("Glo Academy")
+print('Glo', 'Academy', sep='2022')
+print('Glo', 'Academy', end='4')
+
+
